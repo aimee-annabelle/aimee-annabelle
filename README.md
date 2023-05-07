@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aimee-annabelle
-- 👀 I’m interested in frontend development and software designing
+- 👀 I’m interested in frontend/backend development and software designing
 - 🌱 I’m currently learning 3D modeling with blender
 - 💞️ I’m looking to collaborate on new innovative projects
 - 📫 How to reach me inezannabelle@gmail.com
