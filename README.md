@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @aimee-annabelle
-- 👀 I’m interested in frontend/backend development and software designing
-- 🌱 I’m currently learning 3D modeling with blender
-- 💞️ I’m looking to collaborate on new innovative projects
-- 📫 How to reach me inezannabelle@gmail.com
+- 👋 Hi, I'm Annabelle.
+- 👀 I'm currently exploring web development and particularly interested in frontend engineering and full-stack roles.
+- 🌱 I leverage my proficiency in React, frontend frameworks, and backend technologies (Node.js, Typescript) to craft exceptional and scalable web applications.
+- 💞️ I'm open to collaborating on innovative tech solutions, open-source projects, and opportunities
+- 📫 How to reach me: inezannabelle@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love debating and discovering new things 
+
 
 <!---
 aimee-annabelle/aimee-annabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
