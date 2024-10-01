@@ -5,11 +5,10 @@ I'm a junior developer with a passion for building web applications using React.
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js
 - **Tools:** Git, GitHub, GitLab, VS Code, npm, Webpack
 
 ## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
 - Backend with Node.js
 <!---
 aimee-annabelle/aimee-annabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
