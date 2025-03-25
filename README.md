@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Annabelle Ineza!
 
 ## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+I am a Full-Stack Developer with proficiency in JavaScript frameworks and libraries.  I thrive in collaborative environments, tackling complex challenges alongside teams to deliver successful projects.  As a lifelong learner, I'm constantly expanding my skill set through constant learning. I actively seek opportunities to collaborate with experienced developers and learn from their expertise, further accelerating my growth
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js
+- **Frontend:** ReactJs, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Next.js
+- **Mobile:** React Native, Flutter
 - **Tools:** Git, GitHub, GitLab, VS Code, npm, Webpack
 
 ## 🌱 Currently Learning
-- Backend with Node.js
+- Backend with python fastAPI
 <!---
 aimee-annabelle/aimee-annabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
