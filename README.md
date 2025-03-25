@@ -7,10 +7,14 @@ I am a Full-Stack Developer with proficiency in JavaScript frameworks and librar
 - **Frontend:** ReactJs, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, Next.js
 - **Mobile:** React Native, Flutter
-- **Tools:** Git, GitHub, GitLab, VS Code, npm, Webpack
+- **Tools:** Git, GitHub, GitLab, VS Code, npm, Webpack, Trello, Toggl
 
 ## 🌱 Currently Learning
 - Backend with python fastAPI
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aimee-annabelle&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimee-annabelle&layout=compact&theme=transparent" />
+
 <!---
 aimee-annabelle/aimee-annabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
